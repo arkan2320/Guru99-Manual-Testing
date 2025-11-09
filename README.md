@@ -15,10 +15,3 @@ The focus was on tracking **User Stories**, documenting test executions, and cap
 - Maintained a **project link** and notes for reference
 - Structured all documentation for easy understanding and sharing
 
-## Folder Structure
-- `Documentation/` → User Stories, Pages, Screenshots
-- `LinksAndNotes/` → Project links or notes
-- `README.md` → Project description
-
-## GitHub Repository
-[Insert your GitHub link here]
